@@ -3,11 +3,11 @@ function ostrich () {
   stickHeadInSand()
 
   // Only change lines 6 and 10
-  var runAway = function () {
+  function runAway() {
     console.log('The ostrich is running away...')
   }
 
-  var stickHeadInSand = function () {
+  function stickHeadInSand() {
     console.log('Ostriches actually do not do this.')
   }
 }
