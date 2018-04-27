@@ -13,3 +13,5 @@ function ostrich () {
 }
 
 module.exports = ostrich
+
+//created two functions so that when the function is called it prints out the sentence.

@@ -6,3 +6,5 @@ var penguin = function (name) {
 }
 
 module.exports = penguin
+
+//removed duplicit information that wasnt needed for the function to print out. 

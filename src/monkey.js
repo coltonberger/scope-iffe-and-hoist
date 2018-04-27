@@ -23,3 +23,5 @@ function monkey () {
 }
 
 module.exports = monkey()
+
+//removed var infront of each phrase
